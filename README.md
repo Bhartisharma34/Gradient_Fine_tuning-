@@ -1,1 +1,1 @@
-# Gradient_Fine_tuning-
+Gradient AI is used in this project to optimize a language model. This involves the configuration of the environment, development of a model adapter and production of distinct queries for improvement. The main outcome of this research is that it provides proof for improved results after fine tuning. Number of epochs and other important parameters that control accuracy and overfitting are adjusted accordingly. In order to deliver better outcomes, this complete manual outlines ways of making AI models more effective
